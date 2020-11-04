@@ -1,5 +1,5 @@
 # REST_API
-RitSar-API is a REST API template is based on a MongoDB database which can be used to handle articles, blog posts, etc through GET, POST, DELETE, PUT, PATCH requests.
+This is a REST API backend based on a MongoDB database which can be used to handle articles, blog posts, etc through GET, POST, DELETE, PUT, PATCH requests and may be used as a template.
 
 ## How to use
 You can fetch the articles from the server using javascript fetch, jquery get, axios, etc. Postman is suggested for testing with the server https://ritsar-api.glitch.me/ (initial response will be slow as it is a free server). Urlencoded body format is used.
